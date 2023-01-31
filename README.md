@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pravardhitha
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...
+- 👀 Right now I’m interested in Computational Astrophysics. Collaboration of computer science with astronomy 
+- 🌱 I’m currently learning Machine learning, deep learning algorithms
+
 
 <!---
 Pravardhitha/Pravardhitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
